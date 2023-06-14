@@ -123,7 +123,7 @@ ul li a {
   border: 1px solid var(--stroke-color);
   border-radius: 8px;
 
-  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
 
   text-decoration: none;
   font-weight: 500;
